@@ -1,6 +1,6 @@
 # Bug-Friendly Software Manifesto - Manifest Bug Friendly Software
 
-## Spiders and bugs photo © [Jaroslav M. Soukup](mailto:jsoukup1@centrum.cz)  
+## Spiders and bugs photo © [Jaroslav M. Soukup](mailto:jsoukup1@centrum.cz?subject=GitHub)  
 ## Concept and software © [Jiri X. Dolezal](mailto:jxd@jxd.cz)
 
 <img width="500" height="500" alt="JXD VibeLabs_white_500" src="https://github.com/user-attachments/assets/67be51da-540f-4292-b5e7-cc271a70f21e" />
