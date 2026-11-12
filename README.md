@@ -2,10 +2,11 @@
 
 ## Spiders and bugs photo © [Jaroslav M. Soukup](mailto:jsoukup1@centrum.cz?subject=GitHub)  
 ## Concept and software © [Jiri X. Dolezal](mailto:jxd@jxd.cz?subject=GitHub)
+## Our Freeware Bundle on the [Microsoft Store](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ)
 
-<img width="500" height="500" alt="JXD VibeLabs_white_500" src="https://github.com/user-attachments/assets/67be51da-540f-4292-b5e7-cc271a70f21e" />
 
-*Tux © Larry Ewing*
+<img width="3088" height="988" alt="Snímek obrazovky 2026-11-13 002502" src="https://github.com/user-attachments/assets/0be7b075-8ab1-43e0-8fea-b101fc4e80e0" />
+
 
 **EN**
 
@@ -28,4 +29,6 @@ Po 42 letech života s počítači vím, jaké jsou tři základní vlastnosti d
 
 V souladu s tím jsem vybudoval balíček software, který pokrývá základní funkce offline užívání počítače. Ovládá se tak jednoduše, že jednodušeji to už nejde. Software, které ochotně poběží i na computeru, kde běží místní LLM a právě exportuje video.
 
+<img width="500" height="500" alt="JXD VibeLabs_white_500" src="https://github.com/user-attachments/assets/67be51da-540f-4292-b5e7-cc271a70f21e" />
 
+*Tux © Larry Ewing*
