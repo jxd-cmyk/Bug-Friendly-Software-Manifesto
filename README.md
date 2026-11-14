@@ -10,11 +10,17 @@
 
 ## Concept and software © [Jiri X. Dolezal](mailto:jxd@jxd.cz?subject=GitHub)
 
-**EN**
+------
 
-# Manifesto
+## EN
 
-*Cyber Wabi-Sabi: The Beauty of Simplicity*
+# Manifesto *Cyber Wabi-Sabi: The Beauty of Simplicity*
+
+1. Rounded corners belong on fruit, not on a UI
+2. Vibrant colors belong in a circus, not on a desktop
+3. Unnecessary features are, well, unnecessary
+4. Memory should be consumed by solving tasks, not by animations
+5. Running is faster than installing
 
 After 42 years of working with computers, I know what the three fundamental characteristics of good software are:
 
@@ -24,12 +30,17 @@ After 42 years of working with computers, I know what the three fundamental char
 
 In line with this, I’ve built a software suite that covers the basic functions of offline computer use. It’s so easy to use that it couldn’t be any simpler. This software will run just fine even on a computer that’s running a local LLM and currently exporting a video.
 
+------
 
-**CZ**
+## CZ
 
-# Manifest
+# Manifest *Cyber wabi sabi: Krása jednoduchosti*
 
-*Cyber wabi sabi: Krása jednoduchosti*
+1. Kulaté rohy má mít ovoce, ne UI
+2. Pestré barvy patří do cirkusu, ne na desktop
+3. Zbytečné funkce jsou zbytečné
+4. Paměť má zatěžovat řešení tasku, ne animace
+5. Spustit je rychlejší než instalovat
 
 Po 42 letech života s počítači vím, jaké jsou tři základní vlastnosti dobrého software:
 
