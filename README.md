@@ -1,4 +1,7 @@
 # Bug-Friendly Software Manifesto - Manifest Bug Friendly Software
+
+*Cyber Wabi-Sabi: The Beauty of Simplicity* # *Cyber wabi sabi: Krása jednoduchosti*
+
 <img width="3088" height="988" alt="Snímek obrazovky 2026-11-13 002502" src="https://github.com/user-attachments/assets/0be7b075-8ab1-43e0-8fea-b101fc4e80e0" />
 
 ## Our Freeware Bundle on the [Microsoft Store](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ)
@@ -10,6 +13,8 @@
 **EN**
 
 # Manifesto
+
+*Cyber Wabi-Sabi: The Beauty of Simplicity*
 
 After 42 years of working with computers, I know what the three fundamental characteristics of good software are:
 
@@ -23,6 +28,8 @@ In line with this, I’ve built a software suite that covers the basic functions
 **CZ**
 
 # Manifest
+
+*Cyber wabi sabi: Krása jednoduchosti*
 
 Po 42 letech života s počítači vím, jaké jsou tři základní vlastnosti dobrého software:
 
