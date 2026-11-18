@@ -20,7 +20,6 @@
 2. Vibrant colors belong in a circus, not on a desktop
 3. Unnecessary features are, well, unnecessary
 4. Memory should be consumed by solving tasks, not by animations
-5. Running is faster than installing
 
 After 42 years of working with computers, I know what the three fundamental characteristics of good software are:
 
@@ -40,7 +39,6 @@ In line with this, I’ve built a software suite that covers the basic functions
 2. Pestré barvy patří do cirkusu, ne na desktop
 3. Zbytečné funkce jsou zbytečné
 4. Paměť má zatěžovat řešení tasku, ne animace
-5. Spustit je rychlejší než instalovat
 
 Po 42 letech života s počítači vím, jaké jsou tři základní vlastnosti dobrého software:
 
