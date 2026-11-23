@@ -1,4 +1,4 @@
-# Bug-Friendly Software Manifesto - Manifest Bug Friendly Software
+# JXD VibeLabs Manifesto - Manifest JXD VibeLabs
 
 *Cyber Wabi-Sabi: The Beauty of Simplicity* # *Cyber wabi sabi: Krása jednoduchosti*
 
@@ -6,9 +6,16 @@
 
 ## Our Freeware Bundle on the [Microsoft Store](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ)
 
-## Spiders and bugs photo © [Jaroslav M. Soukup](mailto:jsoukup1@centrum.cz?subject=GitHub)  
+## Spiders and Bugs Photo © [Jaroslav M. Soukup](mailto:jsoukup1@centrum.cz?subject=GitHub)  
 
-## Concept and software © [Jiri X. Dolezal](mailto:jxd@jxd.cz?subject=GitHub)
+## Concept and Software © [Jiri X. Dolezal](mailto:jxd@jxd.cz?subject=GitHub)
+
+## JXD VibeLabs [soul.md](https://jxd.cz/soul-md/)
+
+## JXD VibeLabs [homepage](https://jxd.cz/code-is-poetry/)
+
+## JXD VibeLabs [GitHub page](https://jxd-cmyk.github.io/#jxd-vibelabs)
+
 
 ------
 
